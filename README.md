@@ -1,0 +1,2 @@
+# SmartPantry
+hotel inventory management
